@@ -44,3 +44,4 @@ pnpm test:unit
 pnpm lint
 ```
 # HI A new collaborator has been added -SSR
+test merge
